@@ -1,10 +1,11 @@
-# Session 2: Introduction to Linux
+# Session 1: Introduction to Linux
 
 ## Agenda 🚀
 
 - Welcome to OSC
 - What is open source?
 - Linux '25 overview
+- Linux History
 - What is an operating system?
 - Intro to Linux
 - Linux Environments
@@ -12,7 +13,7 @@
 
 ## Materials 📚
 
-- [Slides](session_1.pdf)
+- [Slides](session1.pdf)
 
 ## References 🖊️
 
