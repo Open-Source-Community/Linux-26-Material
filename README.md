@@ -30,7 +30,7 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 
 | Session                         | Topic                    |
 | ------------------------------- | ------------------------ |
-| [Session 1](https://gist.github.com/hadeer-r/634f54e034e96523b5d540e82bab7e24) | Cron Jobs |
+| [Session 1](lectures/advanced/Session1/) | Job Scheduling |
 
 
 ## 🤝 Contributing
