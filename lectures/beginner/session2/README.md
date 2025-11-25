@@ -21,7 +21,7 @@
 
 Solve the hands-on inside the pdf and assign it via [google form](https://forms.gle/xUnn3ZTswhfiW1qR6) before 25 November 2025
 
-- *Follow the instructions in slides*
+- _Follow the instructions in slides_
 
 ## References and useful practice 🖊️
 
@@ -33,3 +33,13 @@ Solve the hands-on inside the pdf and assign it via [google form](https://forms.
 - [pwn.college: paths](https://pwn.college/linux-luminarium/paths/)
 - [pwn.college: piping](https://pwn.college/linux-luminarium/piping/)
 - [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+
+## Additional Resources 📕
+
+###### Illustrated Comparison Between Soft link & Hard link 🌟
+
+- [Video: Soft link vs Hard link](https://youtu.be/4-vye3QFTFo?si=teHuw1q0ccOiXhSQ)
+
+###### Explanation Piping & Redirection 🪈
+
+- [Video: Piping & Redirection](https://youtu.be/2WgxBIell5w?si=yvcWA5gLt-5LTQCR)
