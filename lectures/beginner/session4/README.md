@@ -21,4 +21,7 @@ This session introduces Linux users, groups, permissions, and basic text editors
 - [Slides](Session4.pdf)
 
 ## 🖊 References
-- BeRoot:
+- **BeRoot:** 
+- [Users & Groups](https://github.com/Open-Source-Community/BeRoot/tree/main/Dealing%20with%20Users%20%26%20Groups)
+- [File Permissions & Ownership](https://github.com/Open-Source-Community/BeRoot/tree/main/Files%20Permissions%20%26%20Ownership)
+- [Text Editors](https://github.com/Open-Source-Community/BeRoot/tree/main/Editors)
