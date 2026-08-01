@@ -32,6 +32,8 @@ Materials and resources from the OSC Linux '26 season, covering topics taught du
 | [Session 8](sessions/beginner/session8) | Bash Scripting (part 1) |
 | [Session 9](sessions/beginner/session9) | Bash Scripting (part 2) |
 | [Session 10](sessions/beginner/session10) | Text Processing (part 2) |
+| [Session 11](sessions/beginner/session11) | Processes and Systemd|
+| [Session 12](sessions/beginner/session12) | Computer Networking |
 
 ### Advanced Content 🚀
 
