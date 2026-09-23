@@ -1,0 +1,20 @@
+services:
+  backend:
+    build: ./backend
+    expose:
+      - "3000"
+
+  frontend:
+    build: ./frontend
+    expose:
+      - "80"
+
+  nginx:
+    image: nginx:alpine
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    ports:
+      - "8080:80"
+    depends_on:
+      - frontend
+      - backend

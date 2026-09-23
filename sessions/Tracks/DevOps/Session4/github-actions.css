@@ -1,0 +1,99 @@
+/* @theme github-actions */
+@import 'default';
+
+section {
+  background-color: #ffffff;
+  color: #24292f;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  padding: 50px 70px;
+  font-size: 28px;
+}
+
+/* Header accent bar */
+section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 8px;
+  background: linear-gradient(90deg, #0969da, #2ea043, #e34c26, #8250df);
+}
+
+h1, h2, h3 {
+  color: #24292f;
+  font-weight: 700;
+}
+
+h1 {
+  border-bottom: 2px solid #d0d7de;
+  padding-bottom: 15px;
+  color: #0969da;
+  font-size: 2.2em;
+}
+
+h2 {
+  color: #1a7f37;
+  font-size: 1.6em;
+}
+
+a {
+  color: #0969da;
+  text-decoration: none;
+}
+
+code {
+  background-color: rgba(175, 184, 193, 0.2);
+  color: #24292f;
+  border-radius: 6px;
+  padding: 0.2em 0.4em;
+  font-size: 85%;
+}
+
+pre {
+  background-color: #f6f8fa !important;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(140, 149, 159, 0.15);
+}
+
+pre code {
+  background-color: transparent;
+  color: #24292f;
+}
+
+ul, ol {
+  margin-top: 20px;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
+strong {
+  color: #24292f;
+  font-weight: 700;
+}
+
+footer, section::after {
+  color: #57606a;
+  font-size: 16px;
+}
+
+/* Title Slide Styling */
+section.lead {
+  text-align: center;
+}
+
+section.lead h1 {
+  border-bottom: none;
+  font-size: 3.2em;
+  margin-bottom: 10px;
+}
+
+section.lead p {
+  color: #57606a;
+  font-size: 1.3em;
+  font-weight: 400;
+}
